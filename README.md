@@ -72,6 +72,70 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎌 Search Any Anime  
+<a href="https://search-any-anime.vercel.app/" target="_blank">
+  <img src="https://res.cloudinary.com/dziwz75h6/image/upload/v1775689702/portfolio/vxqzglxlactixsec1qne.png" width="100%" alt="Search Any Anime"/>
+</a>
+
+<a href="https://search-any-anime.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 🍽️ Restaurant  
+<a href="https://restorant-kappa-nine.vercel.app/" target="_blank">
+  <img src="https://res.cloudinary.com/dziwz75h6/image/upload/v1775687368/portfolio/ncq2elhlqqn2s5qltpto.png" width="100%" alt="Restaurant Project"/>
+</a>
+
+<a href="https://restorant-kappa-nine.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 📺 IPTV HRD  
+<a href="https://iptv-hrd.ct.ws/" target="_blank">
+  <img src="https://res.cloudinary.com/dziwz75h6/image/upload/v1773694747/portfolio/fab3zcvg5k1i8syreqts.png" width="100%" alt="IPTV HRD"/>
+</a>
+
+<a href="https://iptv-hrd.ct.ws/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 🖼️ ImageZ  
+<a href="https://imagez.up.railway.app/" target="_blank">
+  <img src="https://res.cloudinary.com/dziwz75h6/image/upload/v1773976952/portfolio/cettlf7lakkxkeopqcch.png" width="100%" alt="ImageZ"/>
+</a>
+
+<a href="https://imagez.up.railway.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-00D9FF?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">

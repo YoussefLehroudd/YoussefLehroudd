@@ -46,9 +46,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,nodejs,express,php,laravel,mongodb,mysql,postgres,firebase,docker,git,github,figma,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,nodejs,express,php,laravel,mongodb,mysql,postgres,firebase,docker,git,github,figma,python&theme=dark&perline=8" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousseflehroudd&theme=tokyo-night&hide_border=true" />
 
 </div>
+
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Youssef Lehroudd
+# Hi 👋, I'm Youssef Lehroud
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Powerful+Web+Apps;Using+Code+%2B+AI+to+Create+Solutions;Always+Learning+%26+Improving" />
 

@@ -84,13 +84,10 @@
   <img src="https://res.cloudinary.com/dziwz75h6/image/upload/v1775689702/portfolio/vxqzglxlactixsec1qne.png" width="100%" />
 </a>
 
-<h3>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/anilist.svg" width="16"/> 
-Search Any Anime
-</h3>
+<br>
 
 <a href="https://search-any-anime.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/View-00D9FF?style=for-the-badge" />
 </a>
 
 </td>
@@ -100,13 +97,10 @@ Search Any Anime
   <img src="https://res.cloudinary.com/dziwz75h6/image/upload/v1775687368/portfolio/ncq2elhlqqn2s5qltpto.png" width="100%" />
 </a>
 
-<h3>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlemaps.svg" width="16"/> 
-Restaurant
-</h3>
+<br>
 
 <a href="https://restorant-kappa-nine.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/View-00D9FF?style=for-the-badge" />
 </a>
 
 </td>
@@ -119,13 +113,10 @@ Restaurant
   <img src="https://res.cloudinary.com/dziwz75h6/image/upload/v1773694747/portfolio/fab3zcvg5k1i8syreqts.png" width="100%" />
 </a>
 
-<h3>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="16"/> 
-IPTV HRD
-</h3>
+<br>
 
 <a href="https://iptv-hrd.ct.ws/">
-  <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/View-00D9FF?style=for-the-badge" />
 </a>
 
 </td>
@@ -135,13 +126,10 @@ IPTV HRD
   <img src="https://res.cloudinary.com/dziwz75h6/image/upload/v1773976952/portfolio/cettlf7lakkxkeopqcch.png" width="100%" />
 </a>
 
-<h3>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cloudinary.svg" width="16"/> 
-ImageZ
-</h3>
+<br>
 
 <a href="https://imagez.up.railway.app/">
-  <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/View-00D9FF?style=for-the-badge" />
 </a>
 
 </td>

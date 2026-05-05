@@ -46,15 +46,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,nodejs,express,php,laravel,mongodb,mysql,postgres,firebase,docker,git,github,figma,python&theme=dark&perline=8" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend+%2B+AI;Building+Everything+with+Code;Full+Stack+Developer+Mode+ON" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,nodejs,express,php,laravel,mongodb,mysql,postgres,firebase,docker,git,github,figma,python&theme=dark" />
 
 </div>
-
-
 
 ---
 
@@ -67,12 +61,7 @@
 
 <br/><br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousseflehroudd&theme=tokyo-night&hide_border=true" />
-
-</div>
-
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseflehroudd&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 

@@ -50,28 +50,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousseflehroudd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img width="36%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousseflehroudd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousseflehroudd&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -137,17 +115,6 @@
 </table>
 
 </div>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yousseflehroudd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 

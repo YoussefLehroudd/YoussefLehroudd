@@ -1,63 +1,102 @@
-<h1 align="center">Hi 👋, I'm Youssef Lehroudd</h1>
+<div align="center">
 
-<h3 align="center">💻 Full Stack Developer | Building powerful web apps with AI</h3>
+# Hi 👋, I'm Youssef Lehroudd
 
-<p align="center">
-  <a href="https://youssefhrd.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:youssefhrdd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Powerful+Web+Apps;Using+Code+%2B+AI+to+Create+Solutions;Always+Learning+%26+Improving" />
+
+<br/>
+
+<a href="https://youssefhrd.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:youssefhrdd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/youssef-lehroud">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yousseflehroudd&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer passionate about building scalable and user-friendly web applications.
-I use modern technologies and AI tools to create efficient and impactful solutions.
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-* 🌱 Currently learning: Advanced frontend & system design
-* 💬 Ask me about: JavaScript, React, Backend, AI tools
-* ⚡ Fun fact: Turning code into smooth and engaging user experiences
+💻 I'm a **Full Stack Developer** who loves building modern, clean, and powerful web applications.
+
+🤖 I use **AI tools** to work smarter, build faster, and turn ideas into real digital products.
+
+🌱 Currently improving my skills in **advanced frontend, backend systems, and AI-powered workflows**.
+
+💬 Ask me about **JavaScript, React, Backend, UI/UX, and AI tools**.
+
+⚡ **Fun fact:** Turning code into smooth and engaging user experiences.
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,php,laravel,mongodb,mysql,postgres,docker,git,figma,tailwind,vue" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,nodejs,express,php,laravel,mongodb,mysql,postgres,firebase,docker,git,github,figma,python&theme=dark" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousseflehroudd&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousseflehroudd&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousseflehroudd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="36%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousseflehroudd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-## 🔥 Streak
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseflehroudd&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yousseflehroudd&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
 
 ---
 
-## 🌐 Connect with me
+## 🏆 GitHub Trophies
 
-<p align="center">
-<a href="https://linkedin.com/in/youssef-lehroud"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://instagram.com/youssef___hrd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yousseflehroudd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+
+</div>
 
 ---
 
-<p align="center">
-  🚀 Building. Learning. Improving every day.
-</p>
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/youssef-lehroud">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/youssef___hrd">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:youssefhrdd@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building.+Learning.+Improving.;Code+%2B+AI+%3D+Powerful+Solutions.;Thanks+for+visiting+my+profile!" />
+
+</div>
